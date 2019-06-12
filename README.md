@@ -55,7 +55,7 @@ Parameters | Type | Description | required?
 ---------  | ---- | ----------- | ---------
 obj | object | the object push on dataLayer in a component visualization | yes
  
-## sanitizeData
+## setDataForm
 This function just sanitize the property forms to always return a array type value.
 ##### parameters:
 Parameters | Type | Description | required?
